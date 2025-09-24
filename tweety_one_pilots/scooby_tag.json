@@ -1,0 +1,136 @@
+{
+    "percentage_threshold": 10,
+    "tweets": [
+      {
+        "user_id": 1234567,
+        "timestamp": 1619695242,
+        "hashtags": ["#scoobydoo", "#mysterymachine"]
+      },
+      {
+        "user_id": 7654321,
+        "timestamp": 1619685367,
+        "hashtags": ["#mysterymachine"]
+      },
+      {
+        "user_id": 9876543,
+        "timestamp": 1619675482,
+        "hashtags": ["#scoobydoo", "#shaggy"]
+      },
+      {
+        "user_id": 2468101,
+        "timestamp": 1619665607,
+        "hashtags": ["#scoobydoo", "#shaggy"]
+      },
+      {
+        "user_id": 1357911,
+        "timestamp": 1619655722,
+        "hashtags": ["#scoobydoo", "#mysterymachine", "#shaggy"]
+      },
+      {
+        "user_id": 5432167,
+        "timestamp": 1619645842,
+        "hashtags": ["#scoobydoo", "#mysterymachine"]
+      },
+      {
+        "user_id": 9876543,
+        "timestamp": 1619635967,
+        "hashtags": ["#mysterymachine", "#daphne"]
+      },
+      {
+        "user_id": 1357911,
+        "timestamp": 1619626082,
+        "hashtags": ["#scoobydoo", "#mysterymachine"]
+      },
+      {
+        "user_id": 1234567,
+        "timestamp": 1619616207,
+        "hashtags": ["#scoobydoo", "#shaggy"]
+      },
+      {
+        "user_id": 7654321,
+        "timestamp": 1619606322,
+        "hashtags": ["#scoobydoo", "#mysterymachine"]
+      },
+      {
+        "user_id": 9876543,
+        "timestamp": 1619596442,
+        "hashtags": ["#scoobydoo", "#velma"]
+      },
+      {
+        "user_id": 2468101,
+        "timestamp": 1619586567,
+        "hashtags": ["#scoobydoo", "#mysterymachine"]
+      },
+      {
+        "user_id": 1357911,
+        "timestamp": 1619576682,
+        "hashtags": ["#scoobydoo", "#fred"]
+      },
+      {
+        "user_id": 5432167,
+        "timestamp": 1619566807,
+        "hashtags": ["#scoobydoo", "#mysterymachine"]
+      },
+      {
+        "user_id": 9876543,
+        "timestamp": 1619556922,
+        "hashtags": ["#scoobydoo", "#scrappydoo"]
+      },
+      {
+        "user_id": 1234567,
+        "timestamp": 1619547042,
+        "hashtags": ["#scoobydoo", "#mysterymachine"]
+      },
+      {
+        "user_id": 7654321,
+        "timestamp": 1619537167,
+        "hashtags": ["#scoobydoo", "#mysterymachine"]
+      },
+      {
+        "user_id": 9876543,
+        "timestamp": 1619527282,
+        "hashtags": ["#scoobydoo", "#shaggy"]
+      },
+      {
+        "user_id": 2468101,
+        "timestamp": 1619517407,
+        "hashtags": ["#scoobydoo", "#mysterymachine"]
+      },
+      {
+        "user_id": 1357911,
+        "timestamp": 1619507522,
+        "hashtags": ["#scoobydoo", "#velma"]
+      },
+      {
+        "user_id": 5432167,
+        "timestamp": 1619497642,
+        "hashtags": ["#scoobydoo", "#mysterymachine"]
+      },
+      {
+        "user_id": 9876543,
+        "timestamp": 1619487767,
+        "hashtags": ["#scoobydoo", "#fred"]
+      },
+      {
+        "user_id": 1234567,
+        "timestamp": 1619477882,
+        "hashtags": ["#scoobydoo", "#mysterymachine"]
+      },
+      {
+        "user_id": 7654321,
+        "timestamp": 1619468007,
+        "hashtags": ["#scoobydoo", "#scrappydoo"]
+      },
+      {
+        "user_id": 9876543,
+        "timestamp": 1619458122,
+        "hashtags": ["#scoobydoo", "#shaggy"]
+      },
+      {
+        "user_id": 2468101,
+        "timestamp": 1619448242,
+        "hashtags": ["#scoobydoo", "#mysterymachine"]
+      }
+    ]
+  }
+  

@@ -1,0 +1,122 @@
+[
+    {
+      "start": "09:00",
+      "end": "10:00",
+      "session_name": "Cours : Algorithmes avancés",
+      "teacher_name": "Sophie LEBLANC"
+    },
+    {
+      "start": "10:30",
+      "end": "11:30",
+      "session_name": "Atelier : Développement web avec React",
+      "teacher_name": "Lucas MARTIN"
+    },
+    {
+      "start": "12:00",
+      "end": "13:00",
+      "session_name": "Cours : Intelligence Artificielle",
+      "teacher_name": "Alicia DUPONT"
+    },
+    {
+      "start": "14:00",
+      "end": "15:00",
+      "session_name": "Cours : Programmation Orientée Objet",
+      "teacher_name": "Gabriel MOREAU"
+    },
+    {
+      "start": "15:30",
+      "end": "16:30",
+      "session_name": "Atelier : Développement mobile avec Flutter",
+      "teacher_name": "Clara ROBERTS"
+    },
+    {
+      "start": "09:00",
+      "end": "10:00",
+      "session_name": "Cours : Systèmes Distribués",
+      "teacher_name": "David LAMBERT"
+    },
+    {
+      "start": "10:30",
+      "end": "11:30",
+      "session_name": "Cours : Sécurité Informatique",
+      "teacher_name": "Julia GARNIER"
+    },
+    {
+      "start": "12:00",
+      "end": "13:00",
+      "session_name": "Atelier : Data Science avec Python",
+      "teacher_name": "Oscar DUBOIS"
+    },
+    {
+      "start": "14:00",
+      "end": "15:00",
+      "session_name": "Cours : Développement Agile",
+      "teacher_name": "Emma RENARD"
+    },
+    {
+      "start": "15:30",
+      "end": "16:30",
+      "session_name": "Atelier : Cloud Computing",
+      "teacher_name": "Alexandre MARTINEZ"
+    },
+    {
+      "start": "09:00",
+      "end": "10:00",
+      "session_name": "Cours : Big Data Analytics",
+      "teacher_name": "Léa MOREL"
+    },
+    {
+      "start": "10:30",
+      "end": "11:30",
+      "session_name": "Cours : Développement durable en informatique",
+      "teacher_name": "Victor DUMONT"
+    },
+    {
+      "start": "12:00",
+      "end": "13:00",
+      "session_name": "Atelier : Blockchain",
+      "teacher_name": "Camille LEMOINE"
+    },
+    {
+      "start": "14:00",
+      "end": "15:00",
+      "session_name": "Cours : Réseaux Informatiques",
+      "teacher_name": "Thomas DURAND"
+    },
+    {
+      "start": "15:30",
+      "end": "16:30",
+      "session_name": "Atelier : Interface Homme-Machine",
+      "teacher_name": "Marie GARCIA"
+    },
+    {
+      "start": "09:00",
+      "end": "10:00",
+      "session_name": "Cours : Développement Front-End",
+      "teacher_name": "Hugo LAFONT"
+    },
+    {
+      "start": "10:30",
+      "end": "11:30",
+      "session_name": "Cours : Gestion de Projets Informatiques",
+      "teacher_name": "Elise ROUX"
+    },
+    {
+      "start": "12:00",
+      "end": "13:00",
+      "session_name": "Atelier : Cybersecurity",
+      "teacher_name": "Maxime ANDRE"
+    },
+    {
+      "start": "14:00",
+      "end": "15:00",
+      "session_name": "Cours : Machine Learning",
+      "teacher_name": "Laura PERRIN"
+    },
+    {
+      "start": "15:30",
+      "end": "16:30",
+      "session_name": "Atelier : DevOps",
+      "teacher_name": "Antoine ROGER"
+    }
+]
